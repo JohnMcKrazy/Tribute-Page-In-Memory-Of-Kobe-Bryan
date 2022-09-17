@@ -15,7 +15,7 @@
 body {
     width: 100%;
     height: 100vh;
-    background: linear-gradient(rgba(255, 255, 255, 0.685) 30%, rgba(0, 0, 0, 0.685)), url("https://www.courtsandgreens.com/wp-content/uploads/2018/04/IMG_6288.jpg");
+    background: linear-gradient(rgba(255, 255, 255, 0.685) 30%, rgba(0, 0, 0, 0.685)), url("./assets/images/background.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
