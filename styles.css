@@ -247,7 +247,8 @@ section {
     text-align: center;
 }
 #img-div img {
-    height: 35rem;
+    min-height: 90vh;
+    max-height: 40rem;
     object-fit: cover;
 }
 /*? BIO DATA SECTION */
